@@ -28,7 +28,7 @@ For instructions on using Katalon TestOps, visit our documentation website: [Ful
 ## Companion products
 ### Katalon Studio
 
-[Katalon Studio](https://www.katalon.com/katalon-studio/) is an intelligent, robust, and scalable automation solution built for beginners and expert testers everywhere. Katalon Studio revolutionizes the use of open-source test automation frameworks such as Selenium and Appium by eliminating their technical complexities. This revolution allows developers and QAs to set up, create, run, report, and manage their automated tests for Web, Mobile, and API Testings efficiently.
+[Katalon Studio](https://www.katalon.com/katalon-studio/) is an intelligent, robust, and scalable automcccccation solution built for beginners and expert testers everywhere. Katalon Studio revolutionizes the use of open-source test automation frameworks such as Selenium and Appium by eliminating their technical complexities. This revolution allows developers and QAs to set up, create, run, report, and manage their automated tests for Web, Mobile, and API Testings efficiently.
 
 ### Katalon TestCloud
 
